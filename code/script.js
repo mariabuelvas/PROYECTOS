@@ -18,7 +18,7 @@ const observer = new IntersectionObserver(entries => {
 document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
 
-const ENDPOINT = "https://sheetdb.io/api/v1/gwofmuto20okx"; 
+const ENDPOINT = "https://sheetdb.io/api/v1/nzicsggrcdopn"; 
 const form   = document.getElementById("contact-form");
 const status = document.getElementById("form-status");
 //Datos del cliente
